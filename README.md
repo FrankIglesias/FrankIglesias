@@ -1,8 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**FrankIglesias/FrankIglesias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+### Francisco Iglesias - Sr. Frontend Developer
 
 - 🔭 I’m currently working at [True North](https://truenorth.co/)
 - 🌱 I’m currently learning Golang

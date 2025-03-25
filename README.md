@@ -1,29 +1,32 @@
-## Hi there 👋
+# Hi there 👋
 
-### Francisco Iglesias - Sr. Frontend Developer
+## Ignacio Francisco Janin Iglesias - Sr. Frontend Engineer
 
-- 🔭 I’m currently working at [True North](https://truenorth.co/)
-- 🌱 I’m currently learning Golang
-- 👯 I’m looking to collaborate on open source projects 🌐<p
-- 💬 Ask me about Frontend and Music 🚀 
-- 📫 How to reach me: Linkedin or [email](mailto:ifrancisco.iglesias@gmail.com)
-- ⚡ Fun fact: I play many instruments 🎵
+🚀 Passionate about frontend development, open source, and sustainable technology.
 
+- 🔭 Currently working as a Sr. Frontend Engineer at [Tree-Nation](https://tree-nation.com/)
+- 🌱 Advocate for Green Software Development and sustainable tech practices
+- 🎙️ Co-creator and host of the [Frontend Army](https://www.youtube.com/channel/UC1234567890abcdef) podcast
+- 👯 Speaker at the [BarcelonaJS](https://barcelonajs.com/) community
+- 💬 Ask me about Frontend Development, Skii and Music 🎵
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/francisco-janin-iglesias/) or via [email](mailto:ifrancisco.iglesias@gmail.com)
 
-## Languages and Tools:  
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+## Languages and Tools
+<p>
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"/>
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"/>
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"/>
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/graphql/graphql.png"/>
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"/>
+</p>
 
-## Here are my stats
+## GitHub Stats
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=FrankIglesias&show_icons=true&theme=radical"/>
-  </a>  
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=FrankIglesias&layout=compact&theme=material-palenight" />
+    <img src="https://github-readme-stats.vercel.app/api?username=FrankIglesias&show_icons=true&theme=radical"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankIglesias&layout=compact&theme=material-palenight"/>
   </a>
 </p>
 
